@@ -261,7 +261,7 @@ export default function Home() {
           </main>
         </div>
         <footer className="m-auto p-4">
-          Demo Built by Nick Fry @ Stump.Works for the purpose of demonstrating only.
+          Demo Built by Nick Fry @ Stump.Works for the purpose of demonstration only.
         </footer>
       </Layout>
     </>
